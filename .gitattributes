@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+gh repo create O-Ninja-Das-Frutas-GOTY
+
+$ git remote add origin  <C:\Users\24025726\Desktop\Fruit Ninja - GOTY Edition> 
+# Sets the new remote
+$ git remote -v
+# Verifies the new remote URL
+
+$ git push origin main
+# Pushes the changes in your local repository up to the remote repository you specified as the origin
